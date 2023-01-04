@@ -24,7 +24,7 @@
 
     * *two-player dynamic simulations of The Prisoner's Dilemma using the [Axelrod package](https://axelrod.readthedocs.io/en/stable/), plus information on Axelrod Tournaments & subsequent work*
 
-*back to [top](#user-content-game--theory)*
+*back to [top](#user-content-game_theory)*
 
 ## additional resources
 
@@ -43,3 +43,5 @@
 * Axelrod's second tournament: https://axelrod.readthedocs.io/en/fix-documentation/reference/overview_of_strategies.html#axelrod-s-second-tournament
 
 * Stewart and Plotkin’s Tournament (2012): https://www.pnas.org/doi/pdf/10.1073/pnas.1208087109
+
+*back to [top](#user-content-game_theory)*
