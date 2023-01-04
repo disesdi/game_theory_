@@ -24,7 +24,7 @@
 
     * *two-player dynamic simulations of The Prisoner's Dilemma using the [Axelrod package](https://axelrod.readthedocs.io/en/stable/), plus information on Axelrod Tournaments & subsequent work*
 
-*back to [top](#user-content-game-theory)
+*back to [top](#user-content-game--theory)*
 
 ## additional resources
 
